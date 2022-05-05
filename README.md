@@ -1,2 +1,3 @@
 # ModzUtilities
-ModzUtilities is a category I have made for all of the different applications, and stuff I make
+
+Feel free to use anything I put in here. If you do use any of my source code I'd appreciate if you did credit my hard work :)
