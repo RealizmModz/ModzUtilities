@@ -1,0 +1,27 @@
+name: ModzUtilities
+version: 1.5
+author: RealizmModz
+main: com.RealizmModz.ModzUtilities.ModzUtilities
+api-version: 1.18
+commands:
+  feed:
+    description: Set max food level
+    usage: /<command>
+    aliases:
+      - food
+      - eat
+      - feedme
+      - fd
+    permission: modzutilities.feed
+    permission-message: §cUh oh. It appears you do not have sufficient permissions. You're just going to have to starve.
+
+  fly:
+    description: if you're cool enough, you get to zoom around the map :)
+    usage: /fly [target]
+    permission: modzutilities.fly
+
+  spawn:
+    description: Teleport to spawn
+    usage: /spawn
+    aliases:
+      - s

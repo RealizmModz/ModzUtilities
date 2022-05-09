@@ -1,0 +1,14 @@
+name: ModzUtilities
+version: 1.0
+author: RealizmModz
+main: com.RealizmModz.ModzUtilities.ModzUtilities
+api-version: 1.16
+commands:
+  feed:
+    description: Set max food level
+    usage: /<command>
+    aliases:
+      - food
+      - eat
+      - feedme
+      - fd
